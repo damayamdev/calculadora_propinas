@@ -1,64 +1,54 @@
 import type { MenuItem } from "../types"
 
 export const menuItems: MenuItem[] = [
-    {
-      "id": 1,
-      "name": "Pizza a la Leña Chica",
-      "price": 30
-    },
-    {
-      "id": 2,
-      "name": "Pizza a la Leña Mediana",
-      "price": 50
-    },
-    {
-      "id": 3,
-      "name": "Rebanada de Pay de Limón",
-      "price": 30
-    },
-    {
-      "id": 4,
-      "name": "Rebanada de Pastel de Chocolate",
-      "price": 30
-    },
-    {
-      "id": 5,
-      "name": "Jugo de Naranja",
-      "price": 15
-    },
-    {
-      "id": 6,
-      "name": "Pizza a la Leña Grande",
-      "price": 70
-    },
-    {
-      "id": 7,
-      "name": "Rib Eye 800g",
-      "price": 100
-    },
-    {
-      "id": 8,
-      "name": "Jugo de Naranja",
-      "price": 15
-    },
-    {
-      "id": 9,
-      "name": "Tequila",
-      "price": 40
-    },
-    {
-      "id": 10,
-      "name": "Rebanada de Pay de Queso",
-      "price": 30
-    },
-    {
-      "id": 11,
-      "name": "Café Americano",
-      "price": 20
-    },
-    {
-      "id": 12,
-      "name": "Café Capuchino",
-      "price": 40
-    }
+  {
+    id: 1,
+    name: "Spaghetti Carbonara",
+    price: 12.50
+  },
+  {
+    id: 2,
+    name: "Paella Valenciana",
+    price: 15.75
+  },
+  {
+    id: 3,
+    name: "Lasagna Bolognese",
+    price: 14.99
+  },
+  {
+    id: 4,
+    name: "Gazpacho Andaluz",
+    price: 8.95
+  },
+  {
+    id: 5,
+    name: "Pizza Margherita",
+    price: 11.25
+  },
+  {
+    id: 6,
+    name: "Tortilla Española",
+    price: 9.50
+  },
+  {
+    id: 7,
+    name: "Risotto ai Funghi",
+    price: 13.50
+  },
+  {
+    id: 8,
+    name: "Pulpo a la Gallega",
+    price: 16.50
+  },
+  {
+    id: 9,
+    name: "Cannelloni al Forno",
+    price: 12.99
+  },
+  {
+    id: 10,
+    name: "Paella de Mariscos",
+    price: 18.75
+  }
 ]
